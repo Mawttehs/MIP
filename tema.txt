@@ -1,0 +1,14 @@
+
+
+"Personalizované prehliadanie a vyhľadávanie: Ako odporúčacie systémy ovplyvňujú online skúsenosti používateľov"
+
+    Spresnenie témy: V článku sa zameriam na to, ako odporúčacie systémy personalizujú výsledky prehliadania a vyhľadávania na internete. Plánujem analyzovať algoritmy, ktoré používajú vyhľadávače (napríklad Google) a online platformy na poskytovanie výsledkov šitých na mieru na základe používateľských údajov, ako sú história prehliadania, poloha, záujmy a interakcie. Budem tiež skúmať, aké výhody a riziká prináša personalizácia, ako napríklad zvýšenie relevantnosti informácií vs. nebezpečenstvo vytvárania "filter bubbles."
+    Inšpirácia: Tento nápad vznikol na základe čítania článku o personalizovanom prehliadaní na Wikipédii a rozširujúcej literatúry o personalizovaných vyhľadávacích systémoch a ich vplyve na používateľské správanie.
+
+Relevantné témy na pokrytie:
+
+    Algoritmy personalizácie v prehliadačoch a vyhľadávačoch: Ako systémy ako Google, Bing, a Amazon využívajú používateľské údaje na prispôsobenie výsledkov.
+    Riziká filtrovania obsahu (filter bubbles): Čo sa stane, keď algoritmy zobrazujú len informácie, ktoré podporujú existujúce názory používateľa, a ako to ovplyvňuje prístup k rôznym názorom.
+    Ochrana súkromia a transparentnosť: Aké dáta sú potrebné pre personalizáciu, a ako môžu platformy nájsť rovnováhu medzi personalizáciou a ochranou súkromia.
+    Vplyv na rozhodovacie procesy používateľov: Ako personalizované prehliadanie a vyhľadávanie ovplyvňuje rozhodovanie používateľov v e-commerce, výskume, a každodenných aktivitách.
+
