@@ -1,0 +1,8 @@
+
+
+A Personalized Travel Recommendation System Using Social Media Analysis
+https://ieeexplore.ieee.org/document/8457762
+
+
+Friend Recommendation in Social Media App using Link Prediction
+https://ieeexplore.ieee.org/document/9761025
